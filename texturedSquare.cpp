@@ -191,8 +191,8 @@ void drawBox(void)
 void drawScene(void)
 {
 	
-	//glEnable(GL_LIGHTING); // Aktifkan pencahayaan
-	//glEnable(GL_LIGHT0); // Aktifkan sumber cahaya
+	glEnable(GL_LIGHTING); // Aktifkan pencahayaan
+	glEnable(GL_LIGHT0); // Aktifkan sumber cahaya
 
 	// Setup sifat material
 	float lightPos[] = { 0.0, 2.0, 2.5, 1.0 };
