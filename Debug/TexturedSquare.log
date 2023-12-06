@@ -1,0 +1,3 @@
+﻿  texturedSquare.cpp
+C:\OpenGLwrappers\Experimenter\ExperimenterSource\Chapter12\TexturedSquare\texturedSquare.cpp(33,14): error C2370: 'angle': redefinition; different storage class
+C:\OpenGLwrappers\Experimenter\ExperimenterSource\Chapter12\TexturedSquare\texturedSquare.cpp(23): message : see declaration of 'angle'
